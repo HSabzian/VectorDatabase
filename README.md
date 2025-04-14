@@ -24,7 +24,7 @@ A **vector database** is a specialized type of database designed to store, manag
 
 ### **An example:**
 
-In this project, a vector Database is built from scratch, for running it, first, download all file in a folder and second, run the MainCode file to import all other files and run the database. After running the model, you input your query (such as "What is a neural network?") and database will retrieve close textual data to it and rank them based on the degree of closeness.
+In this project, a vector Database is built from scratch, for running it, first, download all file in a folder and second, run the MainCode file to import all other files and run the database. After running the model, you input your query (such as *"What is a neural network?"*) and database will retrieve close textual data to it and rank them based on the degree of closeness.
 
 
 
